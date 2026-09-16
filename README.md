@@ -1,41 +1,42 @@
-# 🔮 My AI Project
+# 🔮 Secure AI-Powered Knowledge Base (RAG)
 
-> **EN:** Created by a 14-year-old developer with a single ultimate goal: to master AI and get into a top Chinese University.  
-> **ZH:** 由一名14岁的开发者创建，只有一个终极目标：精通人工智能并考入中国顶尖大学。
+**EN:** Created by a 15-year-old developer with a single ultimate goal: to master AI Application Engineering and get into Tongji University (Shanghai).
 
----
+**ZH:** 由一名15岁的开发者创建，只有一个终极目标：精通人工智能应用工程并考入上海同济大学。
 
 ## 🌎 Language / 语言
-* [English](#-english) | [中文](#-中文)
-
----
+- English | 中文
 
 ## 🇺🇸 English
 
 ### ⚡ What this AI can do
-* **Fast & Optimized** — Built for efficiency and clean code structure.
-* **Modular Design** — Easy to upgrade and add new features.
+- **Semantic RAG Search** — Extracts context from uploaded PDF documents and provides precise answers using DeepSeek API without hallucinations.
+- **Fast & Async Backend** — Built on FastAPI with asynchronous routing for high performance.
+- **Secure Architecture** — Protects API keys via environment variables and limits access to sensitive internal data.
 
 ### 🎯 About Me & My Goal
-* **Age:** 14 years old.
-* **The Mission:** I built this project to challenge myself, learn real-world AI development, and build a powerful portfolio.
-* **The Dream:** Studying Computer Science / AI in **China** 🇨🇳.
+- **Age:** 15 years old.
+- **The Mission:** I built this project to master Full-Stack AI development, asynchronous programming in Python, and vector data management.
+- **The Dream:** Studying Computer Science / AI at **Tongji University** 🇨🇳.
 
 ---
 
 ## 🇨🇳 中文
 
 ### ⚡ 项目功能
-* **高效优化** — 专注于运行效率和整洁的代码结构。
-* **模块化设计** — 易于升级和添加新功能。
+- **语义 RAG 检索** — 提取上传的 PDF 文档上下文，并利用 DeepSeek API 提供精准、无幻觉 Tech 答复。
+- **高效异步后端** — 基于 FastAPI 构建，采用异步路由设计，确保高性能运行。
+- **安全架构设计** — 完美的密钥保护（通过环境变量）与数据隐私隔离隔离机制。
 
 ### 🎯 关于我与我的目标
-* **年龄:** 14岁。
-* **项目初衷:** 我开发这个项目是为了挑战自我，学习真实的人工智能开发，并积累硬核的项目经验。
-* **我的梦想:** 去**中国**留学，深造计算机科学与人工智能专业 🇨🇳。
+- **年龄:** 15岁。
+- **项目初衷:** 我开发 Free-RAG 项目是为了掌握 Full-Stack AI 开发、Python 异步编程以及向量数据管理。
+- **我的梦想:** 去中国留学，深造于 **同济大学** 计算机科学与人工智能专业 🇨🇳。
 
 ---
 
-## 🛠️ Tech / 技术栈
-* Python 3.10+
-* Git & GitHub
+## 🛠 Tech Stack / 技术栈
+- **Backend:** Python 3.10+ (FastAPI, Uvicorn)
+- **AI Integration:** DeepSeek API / Qwen Local
+- **Vector DB:** ChromaDB / PGVector
+- **Frontend:** Vue.js 3 (Composition API) + TailwindCSS
