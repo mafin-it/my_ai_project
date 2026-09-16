@@ -13,7 +13,6 @@
 ## 🇺🇸 English
 
 ### ⚡ What this AI can do
-* **Core Task** — *[Write here in 1 sentence what your AI does, e.g.: Generates smart text responses / Recognizes images / Automates tasks]*
 * **Fast & Optimized** — Built for efficiency and clean code structure.
 * **Modular Design** — Easy to upgrade and add new features.
 
@@ -27,7 +26,6 @@
 ## 🇨🇳 中文
 
 ### ⚡ 项目功能
-* **核心功能** — *[在这里用一句话写下你的AI能做什么，例如：智能文本生成 / 图像识别 / 自动化任务]*
 * **高效优化** — 专注于运行效率和整洁的代码结构。
 * **模块化设计** — 易于升级和添加新功能。
 
